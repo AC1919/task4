@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 style={{ color: "green" }}>using JavaScript inbuilt FETCH API</h1>
+      <h1 style={{ color: "green" }}>The Table:-</h1>
       <center>
         {data.map((dataObj, index) => {
           return (
